@@ -3,6 +3,51 @@
 All notable changes to VoidFemboy. Versions before 0.1.0 were internal alphas;
 the first public release is **0.1.0**.
 
+## 0.2.0-alpha — tail, headphones & the station remap
+
+Two supported lines: 1.20.1 (wider mod ecosystem) and 1.21.1. Same features,
+same jar name — pick the one matching your game.
+
+### New cosmetics
+- **Femboi Tail** (Cute Menu cosmetic slot): physics-swayed chained tail with a
+  white tip shell that stays white under any dye. The outfit's baked-in tail
+  hides while one is worn, so they never double up.
+- **Cat-Ear Headphones** (Cute Menu cosmetic slot): chunky cups, head-following
+  band, two-step ears. Band, cups and ear bases dye; ear tips stay pale.
+  Hidden in first person (they filled the screen).
+- **Standalone hoodie** rebuilt (r2-1 design): kangaroo pocket, hood drape,
+  sleeve hearts, stripes and cuffs, own texture. Sleeves hide while arm
+  warmers are worn.
+
+### Cute Station
+- 7 body-grouped wells (headband / hoodie / warmers / thigh-highs / paw
+  booties / tail / headphones) with leader traces to the doll.
+- **Dye All** paints every worn piece in one click (armor included).
+- The doll is item-driven: regions follow the piece covering them (thigh-highs
+  -> thigh, booties -> paws, tops -> torso, dresses -> tiers), empty regions
+  show hollow, and the chest well names itself Hoodie / Dress / Hoodie-Dress.
+
+### Outfit logic
+- The standalone **dress moved to the chest slot** (legs = thigh-highs only).
+  Skirt panels render from exactly one piece; removing thigh-highs removes
+  them for real now. Worlds with a dress still in legs: take it out once and
+  put it in the chest well.
+- Set bonus counts a dress top.
+
+### Hoodie pocket
+- The hoodie and hoodie-dress carry a **45-slot pocket** (9x5, keybind `N`
+  toggles open/shut while worn). Contents ride the item through closing,
+  relogging, unequipping and death.
+- Retired the med/low detail variants entirely (the GPU handles full detail);
+  `config/voidfemboy-detail.txt` is no longer read and can be deleted.
+
+### Fixes
+- Dye-all no longer undyes tail/ears; armor tints sync on dye-all.
+- Title screen stops yanking Options/quit flows back to itself.
+- Dress skirt visible again after the chest move (ring re-root).
+- Retired the med/low detail variants entirely (the GPU handles full detail);
+  `config/voidfemboy-detail.txt` is no longer read and can be deleted.
+
 ## 0.1.0 — first public release
 
 The culmination of the alpha series. Highlights:
