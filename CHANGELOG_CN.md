@@ -1,6 +1,6 @@
 # 更新日志
 
-[English](https://github.com/Ripmrlukas/voidfemboy/blob/main/CHANGELOG.md) | 简体中文
+[English](https://github.com/Ripmrlucas/voidfemboy/blob/main/CHANGELOG.md) | 简体中文
 
 记录 VoidFemboy 的所有明显变更。0.1.0 之前的版本为内部 Alpha 版；首个公开发布版本为 **0.1.0**。
 
