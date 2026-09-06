@@ -1,6 +1,6 @@
 # Changelog
 
-English | [简体中文](https://github.com/Ripmrlukas/voidfemboy/blob/main/CHANGELOG_CN.md)
+English | [简体中文](https://github.com/Ripmrlucas/voidfemboy/blob/main/CHANGELOG_CN.md)
 
 All notable changes to VoidFemboy. Versions before 0.1.0 were internal alphas;
 the first public release is **0.1.0**.
