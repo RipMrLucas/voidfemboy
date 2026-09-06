@@ -1,6 +1,6 @@
 # VoidFemboy
 
-English | [简体中文](https://github.com/Ripmrlukas/voidfemboy/blob/main/README_CN.md)
+English | [简体中文](https://github.com/Ripmrlucas/voidfemboy/blob/main/README_CN.md)
 
 A pastel void-themed Fabric mod for Minecraft **1.21.1 and 1.20.1**: void-ore
 progression, a true-3D dyeable femboi wardrobe with a **wearable 45-slot hoodie
