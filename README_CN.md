@@ -1,6 +1,6 @@
 # VoidFemboy 虚空伪娘
 
-[English](https://github.com/Ripmrlukas/voidfemboy/blob/main/README.md) | 简体中文
+[English](https://github.com/Ripmrlucas/voidfemboy/blob/main/README.md) | 简体中文
 
 一款Pastel Void主题的Fabric模组，支持 **Minecraft 1.21.1 和 1.20.1**：添加了虚空矿物、一套真3D可染色“伪娘”套装（带 **可穿戴的45格连帽衫口袋**）、用于染色的可爱工作台、银河标题画面、游戏内配方书“虚空圣典”，以及一些小秘密哦。喵~
 
