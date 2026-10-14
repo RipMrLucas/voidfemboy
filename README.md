@@ -1,7 +1,5 @@
 # VoidFemboy
 
-English | [简体中文](https://github.com/Ripmrlucas/voidfemboy/blob/main/README_CN.md)
-
 A pastel void-themed Fabric mod for Minecraft **1.21.1 and 1.20.1**: void-ore
 progression, a true-3D dyeable femboi wardrobe with a **wearable 45-slot hoodie
 pocket**, a Cute Station dyeing block, a galaxy title screen, an in-game recipe
@@ -38,14 +36,32 @@ Codex, and a few secrets. Meow.
 - **Compatibility** — plays nice with Iris/Sodium, First-person Model, JEI, and
   big modpacks (tested in AOF7 on 1.20.1).
 
+
+## New in 0.3.0
+
+- **Fursuit set** — hood, body, legs and paws from the **Fursuit Station**.
+  Dye it, flip cat/wolf spirit, pick from 22 faces (or make your own in the
+  face editor), change expressions with `V`.
+- **Maid set** — headband, dress with live spring physics, and shoes. Full
+  set grants **Luck**.
+- **Boba tea** — 5 refill stages, and the cups refill themselves.
+- **Prism set** — flight armor (drains while you fly, rainbow HUD), hue-cycling
+  prism block, nether-only prism ore (netherite pick), piglin bartering, and a
+  full advancement chain.
+- **Extra wearables** — crop top, fishnets, pleated skirt, bunny ears, choker,
+  scarf, thigh bows and a cat plush.
+- **True-3D icons and held models**, 60 rotating main-menu tips, verified
+  tooltips, 10 translated locales, sculk hears armor unequips, dedicated-server
+  support.
+
 ## Versions & downloads
 
 Two release lines, same features — pick the one matching your game:
 
 | Minecraft | Jar | Requires |
 |---|---|---|
-| 1.21.1 | `voidfemboy-0.2.0-alpha.jar` | Java 21, Fabric API, GeckoLib 4.7+ |
-| 1.20.1 | `voidfemboy-0.2.0-alpha (1.20.1).jar` | Java 17, Fabric API, GeckoLib 4.4+ |
+| 1.21.1 | `voidfemboy-0.3.0-alpha-1.21.1.jar` | Java 21, Fabric API, GeckoLib 4.7+ |
+| 1.20.1 | `voidfemboy-0.3.0-alpha-1.20.1.jar` | Java 17, Fabric API, GeckoLib 4.4+ |
 
 Both lines work with older Fabric Loaders (1.20.1: 0.15+, 1.21.1: 0.16+) and in
 modpacks running older toolchains.
