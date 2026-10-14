@@ -1,9 +1,31 @@
 # Changelog
 
-English | [简体中文](https://github.com/Ripmrlucas/voidfemboy/blob/main/CHANGELOG_CN.md)
-
 All notable changes to VoidFemboy. Versions before 0.1.0 were internal alphas;
 the first public release is **0.1.0**.
+
+## 0.3.0-alpha — prism flight, fursuits & maids
+
+### New content
+- **Prism set**: flight armor (35% over netherite, drains while flying,
+  rainbow HUD), hue-cycling prism block, nether-only prism ore, piglin
+  bartering, 5-advancement chain.
+- **Fursuit set** (hood/body/legs/paws): station dyeing, cat/wolf flip,
+  22 faces + editor, `V` expressions. Default face: Silly.
+- **Maid set**: live spring-physics dress, Luck set bonus.
+- **Boba tea**, crop top, fishnets, pleated skirt, bunny ears, choker,
+  scarf, thigh bows, cat plush.
+- 60 rotating tips, 22 verified tooltips, 10 translated locales,
+  sculk hears unequips, dedicated-server support.
+
+### Fixes
+- Two world-load crashes fixed (bad ore placement type, spaced recipe
+  patterns); all datapack JSON now script-validated.
+- Maid physics accumulation explosion fixed; true-3D icons with
+  directional shading; fursuit hood reshaped.
+
+### Known issues
+- Sprint-stride extremes can show a sliver of leg through the maid hem.
+- Hoodie-combo recipe still eats pocket contents (warned in tooltip).
 
 ## 0.2.0-alpha — tail, headphones & the station remap
 
